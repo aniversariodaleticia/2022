@@ -1,0 +1,36 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url('better-together-script.ttf');
+  }
+
+.fundo{
+    background-image:url('Convite.gif'); 
+    background-repeat: no-repeat;
+    background-position: center;
+
+    background-size: contain;
+    
+    height: 600px;
+    border-style: solid;
+
+   
+
+    
+}
+.nome{
+    font-size: 50px;
+    padding-top: 7px; 
+    color: white;
+    font-family: myFirstFont;
+    margin: 0;
+    text-align: center;
+    height: 450px;
+    
+}
+.parteBaixo{
+    color: blue;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
+
